@@ -1,7 +1,6 @@
 {
   "name": "desafios-mentoria-typescript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +14,14 @@
   },
   "dependencies": {
     "lite-server": "^2.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regix2003/entrega-desafios-typescript-dio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/regix2003/entrega-desafios-typescript-dio/issues"
+  },
+  "homepage": "https://github.com/regix2003/entrega-desafios-typescript-dio#readme",
+  "description": ""
 }
